@@ -2,13 +2,10 @@
   // TODO: replace this with your own firebase config object after creating app in your firebase console
   // Your web app's Firebase configuration
   // note: this config will not work indefinitely, will need to replace with your own config to run solution file
+  
+  //Add FirebaseConfig here
   const firebaseConfig = {
-    apiKey: "AIzaSyAE8ewoiEZlTXJyLhlc8BucG4I3ztMXFtg",
-    authDomain: "fir-auth-1a573.firebaseapp.com",
-    projectId: "fir-auth-1a573",
-    storageBucket: "fir-auth-1a573.appspot.com",
-    messagingSenderId: "487849138116",
-    appId: "1:487849138116:web:7c22b570e7a8910a97b691"
+
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
